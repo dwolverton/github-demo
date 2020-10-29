@@ -5,4 +5,8 @@ public class OtherClass {
 		System.out.println("What up, " + name + "?!");
 		System.out.println("Fine day, what?");
 	}
+	
+	public static void ungreet() {
+		System.out.println("Goodbye.");
+	}
 }
